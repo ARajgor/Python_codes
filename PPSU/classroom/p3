@@ -1,0 +1,7 @@
+m=float(input("enter marks of maths:"))
+c=float(input("enter marks of chemistry:"))
+p=float(input("enter marks of physics:"))
+avg=(m+c+p)/3
+print("average marks :",avg)
+percentage=((m+c+p)/300)*100
+print("percentage :",percentage)
